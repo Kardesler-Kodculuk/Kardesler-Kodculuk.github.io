@@ -6,6 +6,9 @@ In any case, for our comfort, and for your pleasure, here is the our archive, th
 
 ## CENG 112 - Data Stractures
 
+[![CodeClimate](http://img.shields.io/codeclimate/github/ambertide/G10_CENG211_HW1.svg?style=flat)](https://codeclimate.com/github/ambertide/G10_CENG211_HW1 
+"CodeClimate")
+
 Link | Code Quality | Date
 -----|--------------|------
 [Homework 1](https://github.com/ambertide/G10_CENG211_HW1) | [![Maintainability](https://api.codeclimate.com/v1/badges/ccfce6ff7ecce2300702/maintainability)](https://codeclimate.com/github/ambertide/G10_CENG211_HW1/maintainability) | March 4 - March 15, 2019
@@ -15,8 +18,7 @@ Link | Code Quality | Date
 
 ## CENG 211 - Programming Fundamentals
 
-| Some of the below repositories are private, they will be made public after they are graded. |
-|---|
+> Some of the below repositories are private, they will be made public after they are graded.
 
 Link | Code Quality | Date 
 -----|------------- |------
