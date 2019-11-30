@@ -6,12 +6,12 @@ In any case, for our comfort, and for your pleasure, here is the our archive, th
 
 ## CENG 112 - Data Stractures
 
-Link | Code Quality | Date
------|--------------|------
-[Homework 1](https://github.com/ambertide/G10_CENG211_HW1) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G10_CENG211_HW1?label=%20)](https://codeclimate.com/github/ambertide/G10_CENG211_HW1/maintainability) | March 4 - March 15, 2019
-[Homework 2](https://github.com/ambertide/G10_CENG112_HW2) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G10_CENG112_HW2?label=%20)](https://codeclimate.com/github/ambertide/G10_CENG112_HW2/maintainability) | March 19 - March 30, 2019
-[Homework 3](https://github.com/oquzhax/G10_CENG112_HW3) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/oquzhax/G10_CENG112_HW3?label=%20)](https://codeclimate.com/github/oquzhax/G10_CENG112_HW3/maintainability) | April 21 - April 25, 2019
-[Homework 4](https://github.com/ambertide/G10_CENG112_HW4) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G10_CENG112_HW4?label=%20)](https://codeclimate.com/github/ambertide/G10_CENG112_HW4/maintainability) | May 8 - May 20, 2019
+Link | Code Quality | Date | Grade
+-----|--------------|------ | -----
+[Homework 1](https://github.com/ambertide/G10_CENG211_HW1) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G10_CENG211_HW1?label=%20)](https://codeclimate.com/github/ambertide/G10_CENG211_HW1/maintainability) | March 4 - March 15, 2019 | 100
+[Homework 2](https://github.com/ambertide/G10_CENG112_HW2) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G10_CENG112_HW2?label=%20)](https://codeclimate.com/github/ambertide/G10_CENG112_HW2/maintainability) | March 19 - March 30, 2019 | 100
+[Homework 3](https://github.com/oquzhax/G10_CENG112_HW3) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/oquzhax/G10_CENG112_HW3?label=%20)](https://codeclimate.com/github/oquzhax/G10_CENG112_HW3/maintainability) | April 21 - April 25, 2019 | 100
+[Homework 4](https://github.com/ambertide/G10_CENG112_HW4) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G10_CENG112_HW4?label=%20)](https://codeclimate.com/github/ambertide/G10_CENG112_HW4/maintainability) | May 8 - May 20, 2019 | 92
 
 ## CENG 211 - Programming Fundamentals
 
@@ -19,4 +19,5 @@ Link | Code Quality | Date
 
 Link | Code Quality | Date 
 -----|------------- |------
-[Homework 1](https://github.com/ambertide/G03_CENG211_HW1) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G03_CENG211_HW1?label=%20)](https://codeclimate.com/github/ambertide/G03_CENG211_HW1/maintainability) | October 16 - October 26, 2019
+[Homework 1](https://github.com/ambertide/G03_CENG211_HW1) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G03_CENG211_HW1?label=%20)](https://codeclimate.com/github/ambertide/G03_CENG211_HW1/maintainability) | October 16 - October 26, 2019 | 90
+[Homework 2](https://github.com/oquzhax/G03_CENG211_HW2) | [![Maintainability] (https://img.shields.io/codeclimate/maintainability/oquzhax/G03_CENG211_HW2?label=%20)] (https://codeclimate.com/github/oquzhax/G03_CENG211_HW2/maintainability) | Nov 6 - Nov 17, 2019 | 82
