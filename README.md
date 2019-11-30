@@ -20,4 +20,5 @@ Link | Code Quality | Date | Grade
 Link | Code Quality | Date | Grade
 -----|------------- |------ | -----
 [Homework 1](https://github.com/ambertide/G03_CENG211_HW1) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G03_CENG211_HW1?label=%20)](https://codeclimate.com/github/ambertide/G03_CENG211_HW1/maintainability) | October 16 - October 26, 2019 | 90
-[Homework 2](https://github.com/oquzhax/G03_CENG211_HW2) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/oquzhax/G03_CENG211_HW2?label=%20)](https://codeclimate.com/github/oquzhax/G03_CENG211_HW2/maintainability) | Nov 6 - Nov 17, 2019 | 82
+[Homework 2](https://github.com/oquzhax/G03_CENG211_HW2) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/oquzhax/G03_CENG211_HW2?label=%20)](https://codeclimate.com/github/oquzhax/G03_CENG211_HW2/maintainability) | November 6 - November 17, 2019 | 82
+[Homework 3](https://github.com/ambertide/G03_CENG211_HW3) | [![Maintainability](https://img.shields.io/codeclimate/maintainability/ambertide/G03_CENG211_HW3?label=%20)](https://codeclimate.com/github/ambertide/G03_CENG211_HW3/maintainability) | November 30 - Continuing...| ?
